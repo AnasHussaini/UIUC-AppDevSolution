@@ -1,3 +1,5 @@
+Solution by Mohammed Anas Hussaini
+
 Run the script using the command:
 
 python main.py
